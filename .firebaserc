@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "dharamik-platform"
+  },
+  "targets": {
+    "dharamik-platform": {
+      "hosting": {
+        "web_app": [
+          "dharamik-platform"
+        ]
+      }
+    }
+  }
+}

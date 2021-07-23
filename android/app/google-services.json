@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922934124805",
+    "firebase_url": "https://dharamik-platform.firebaseio.com",
+    "project_id": "dharamik-platform",
+    "storage_bucket": "dharamik-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922934124805:android:9eb77c566e336f6550176c",
+        "android_client_info": {
+          "package_name": "com.dharamik.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922934124805-3egmpq5jgahvrpemaoebudaqqg72ih7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dharamik.app",
+            "certificate_hash": "a8b36d101d45f0a2ee8d8e4630e5aa1960b75ca5"
+          }
+        },
+        {
+          "client_id": "922934124805-ud5t2c4so8t2qao71jgfvolrl5mn9etg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ67l3EvVAx3CpN6ZKJefTx_n8Vb8OdqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922934124805-p3ik95eh96kvo3067so4e53hpb4aa8bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922934124805-49bsoskqkuhaidhke6s7mc0iki6f2bqp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dharamik.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
